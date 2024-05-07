@@ -1,0 +1,1 @@
+- [1997 Ford F-250 7.3 Powerstroke project “BauerStroke”](https://youtu.be/zoPhBjv7zTo)
