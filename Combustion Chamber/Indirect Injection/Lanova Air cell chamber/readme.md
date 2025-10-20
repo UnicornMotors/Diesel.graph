@@ -13,4 +13,7 @@ Air cell injection can be considered as a compromise between indirect and direct
 >
 >In the US, the Lanova system was used by Mack Trucks. An example is the Mack-Lanova ED diesel engine fitted to the Mack NR truck. cell chambers are commonly named Lanova air chambers.[9] The Lanova combustion system was developed by the Lanova company, which was founded in 1929 by Franz Lang, Gotthard Wielich and Albert Wielich.[10]
 >
->In the US, the Lanova system was used by Mack Trucks. An example is the Mack-Lanova ED diesel engine fitted to the Mack NR truck."
+>In the US, the Lanova system was used by Mack Trucks. An example is the Mack-Lanova ED diesel engine fitted to the [Mack NR](https://en.wikipedia.org/wiki/Mack_NR) truck."
+
+# Relation:
+- https://en.wikipedia.org/wiki/Mack_NR
